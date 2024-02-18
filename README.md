@@ -1,4 +1,4 @@
-# DIGITAL-VIETNAMESE-ARTICLE-SUMMARIZATION-USING-TRANSFER-LEARNING
+# DIGITAL VIETNAMESE ARTICLE SUMMARIZATION USING TRANSFER LEARNING
 ## Introduction
 In this task, we collected the ViDN4ABS dataset from some digital Vietnamese newspapers, such as tuoitre.vn, thanhnien.vn, vnexpress.net, vtc.vn, after that we conducted experiments with some models that are said to be capable of abstractive summarizing texts, such as T5, ViT5, Pegasus, Prophetnet, Distilbart, BARTPho, then compared and evaluated the results between these models. Finally, we highlighted some challenges and set out the future development direction for the abstractive summarization task.
 
